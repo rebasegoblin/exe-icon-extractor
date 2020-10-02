@@ -1,5 +1,7 @@
 # exe-icon-extractor
 
-This is a fork of [inithink/exe-icon-extractor](https://www.npmjs.com/package/@inithink/exe-icon-extractor)
+This is a fork of @pelayomendez and @inithink icon extractiop [exe-icon-extractor](https://www.npmjs.com/package/exe-icon-extractor)
 
-I encountered some problems with @inithink package but couldn't find a way to contact him or the of the project so I created this package temporaly to fix the issues and make tests in case of someone needs it.
+This package has all improvements of @pelayomendez's fork as well as the following fixes
+- Will not fail compiling on none Windows Systems
+- Fixes compiler warnings
