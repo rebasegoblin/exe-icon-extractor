@@ -1,6 +1,6 @@
 {
   "name": "@bitdisaster/exe-icon-extractor",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Fork of pelayomendez/exe-icon-extractor",
   "main": "bindings.js",
   "scripts": {
