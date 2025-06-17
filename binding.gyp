@@ -13,7 +13,7 @@
           'msvs_settings': {
             'VCCLCompilerTool': {
               'ExceptionHandling': '1',    
-              'AdditionalOptions': ['/EHsc']
+              'AdditionalOptions': ['/EHsc', '/Zc:strictStrings-']
             }
           }
         },],
